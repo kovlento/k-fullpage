@@ -1,5 +1,6 @@
 # k-fullpages
-
+![image](https://img.shields.io/badge/vue-2.6.10-blue.svg)
+![image](https://img.shields.io/badge/vue--cli-3.0.0-green.svg)
 ## Project setup
 ```
 npm install
